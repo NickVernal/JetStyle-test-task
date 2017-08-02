@@ -20,6 +20,5 @@ python object_arranger.py 1000 -d ou -j json -i image
 
 ## Results
 ![alt text](https://raw.githubusercontent.com/NickVernal/JetStyle-test-task/master/Examples/10.png "10")
-![alt text](https://raw.githubusercontent.com/NickVernal/JetStyle-test-task/master/Examples/17.png "17")
 ![alt text](https://raw.githubusercontent.com/NickVernal/JetStyle-test-task/master/Examples/100.png "100")
 ![alt text](https://raw.githubusercontent.com/NickVernal/JetStyle-test-task/master/Examples/1000.png "1000")
